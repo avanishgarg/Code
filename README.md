@@ -39,14 +39,26 @@ pip install -r requirements.txt
 
 
 
+## Contributors
+
+<table style="border-collapse: collapse; border: none">
+    <tr style="border:none">
+        <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0; border: none" >
+            <a href="https://github.com/simran2147">
+                <img src="https://avatars.githubusercontent.com/u/71367670?v=4" width="100" style="border-radius: 50%; align-items: center; justify-content: center; overflow: hidden; padding-top: 10px;" alt="Simran Dadhich"/>
+                <br />
+                <sub style="font-size: 14px;"><b>Simran Dadhich</b></sub>
+            </a>
+        </td>
+    </tr>
+</table>
 
 
 
-    
+
 ## Contributing
 
 Contributions to SignLearn are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
-
 
 
 ## License
